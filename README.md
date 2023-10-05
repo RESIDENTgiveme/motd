@@ -1,6 +1,6 @@
 # Welcome to the Pirates Of Mordhau (POM). Enjoy your stay! 
 
-<a id="Join our Discord community!">https://discord.gg/zzgC3AFv</> 
+<a id="Join our Discord community!">https://discord.gg/zzgC3AFv</>
 
 # Rules:
 1. No FFA 
