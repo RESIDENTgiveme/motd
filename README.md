@@ -7,4 +7,5 @@
 2. No Spam
 3. Keep it civil
 
-![Jack Sparrow](https://cdn.discordapp.com/attachments/980129366564569179/1255640790500249702/33231439.1_pirate_logo_discord.png?ex=667dde1d&is=667c8c9d&hm=6641347916148e548022832431d941b40bc394b582185758f8d741f9720ffa81&)
+![Jack Sparrow](https://github.com/RESIDENTgiveme/motd/assets/129698151/c162e135-8f96-4f97-bca5-fef512bb4bd2)
+
